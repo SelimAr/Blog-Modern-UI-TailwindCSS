@@ -1,6 +1,6 @@
 ### **Blog-Modern-UI-TailwindCSS**
 
-#Light Mode
+#Light Mode#
 ![Blog_LightTheme](https://user-images.githubusercontent.com/82125128/229366921-828efe65-6c6a-4c1f-a243-5db5b19b4fb6.PNG)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
